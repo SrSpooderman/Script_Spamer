@@ -1,4 +1,4 @@
-#importaciones
+#Importaciones
 import pyautogui
 import time
 #variables
